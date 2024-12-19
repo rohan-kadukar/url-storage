@@ -1,1 +1,1 @@
-[]
+[{"url":"sudo efibootmgr --create --disk /dev/nvme0n1 --part 1 --label \"GRUB\" --loader /EFI/GRUB/grubx64.efi","done":false}]
